@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a12595b-14d7-4760-9b75-38cd51f58a6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos site/5445278315645629196.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos site/5445278315645629202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos site/5445278315645629203.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos site/5445278315645629204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/background.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/JetBrainsMono-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/JetBrainsSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/technologies.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webstorm-icon-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webstorm-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assign3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="package.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a2070402-0413-4bf3-9c7c-29847cd7bb36" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uw4Uezny5gcdVs0Jj9NcRfIRm8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/rauzasite/src/1.html&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/rauzasite/src/main.js&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/rauzasite/src/1.html&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\rauzasite\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a12595b-14d7-4760-9b75-38cd51f58a6f" name="Changes" comment="" />
+      <created>1743146319714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743146319714</updated>
+      <workItem from="1743146320816" duration="8474000" />
+      <workItem from="1743242591326" duration="607000" />
+      <workItem from="1743937316210" duration="7264000" />
+      <workItem from="1744539362448" duration="802000" />
+      <workItem from="1744568030180" duration="4855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
